@@ -7,7 +7,7 @@ on:
  #schedule:　
     #- cron: '10 8 * * *'
 
-jobs:
+jobs:　
   build:
     # Ubuntuの最新版環境内で処理
     runs-on: ubuntu-latest
